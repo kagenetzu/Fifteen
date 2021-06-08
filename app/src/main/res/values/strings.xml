@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Пятнашки</string>
+    <string name="reset">Перемешать</string>
+    <string name="photo">Добавить фото из галереи</string>
+    <string name="spoiler">Помощь</string>
+    <string name="solution">Решить</string>
+    <string name="steps">Step: </string>
+    <string name="back">Вернуть цифры</string>
+    <string name="good">Картинка подходит для пазла</string>
+    <string name="bad">Картинка не рекомендуется для пазла</string>
+</resources>
